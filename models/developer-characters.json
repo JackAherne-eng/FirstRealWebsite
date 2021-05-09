@@ -1,0 +1,37 @@
+{
+  "developers": [
+    {
+      "title": "Love is War",
+      "name": "Adam Johnson",
+      "job": "Front End Developer",
+      "number": "085 954 4359",
+      "email": "AdamJohnson@gmail.com",
+      "image": "https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FRecommendations1.jpg?v=1616115879633",
+      "joined": 2019,
+      "plot": "In senior high of Shuchiin Academy, the student council president Miyuki Shirogane and vice-president Kaguya Shinomiya appear to be the perfect couple. Kaguya is the daughter of a wealthy conglomerate family, and Miyuki is the top student at the school and well-known across the prefecture. Although they like each other, they are too proud to confess their love, coming with many schemes to make the other confess.",
+      "Reccomendations": 35
+    },
+    {
+      "title": "Sword Art Online",
+      "name": "Maddison Gordon",
+      "job": "Web Developer",
+      "number": "085 663 8935",
+      "email": "MaddisonGordon@gmail.com",
+      "image": "https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FRecommendations2.jpg?v=1616339802571",
+      "joined": 2017,
+      "plot": "On November 6, 10,000 players log into SAO's mainframe cyberspace for the first time, only to discover that they are unable to log out. Kayaba appears and tells the players that they must beat all 100 floors of Aincrad, a steel castle which is the setting of SAO if they wish to be free. He also states that those who suffer in-game deaths or forcibly remove the NerveGear out-of-game will suffer real-life deaths.",
+      "Reccomendations": 22
+    },
+    {
+      "title": "Your Name",
+      "name": "John Aherne",
+      "job": "Web Designer",
+      "number": "086 894 4569",
+      "email": "JohnAherne@gmail.com",
+      "image": "https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FRecommendations3.jpg?v=1616340208049",
+      "joined": 2016,
+      "plot": "Mitsuha Miyamizu is a high school girl living in the rural town of Itomori near Hida. Bored of the town, she wishes to be a Tokyo boy in her next life. She inexplicably begins to switch bodies intermittently with Taki Tachibana, a high school boy in Tokyo, waking up as the other person and having to live through their activities and social interactions for the day. The two initially believe these experiences to be vivid dreams, but eventually realize they can communicate with each other by leaving messages on paper, phones and sometimes on each other's skin. Mitsuha (in Taki's body) sets Taki up on a date with his coworker Miki Okudera, while Taki (in Mitsuha's body) causes Mitsuha to become popular at school.",
+      "Reccomendations": 26
+    }
+  ]
+}

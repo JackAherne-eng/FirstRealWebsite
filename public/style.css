@@ -1,0 +1,64 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FBackground.jpg?v=1616094730928");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1,
+ui.statistics{
+  font-style: italic;
+  color: #373fff;
+}
+
+h3,
+h4 {
+  color: black;
+}
+
+#readmore {
+  display: none;
+}
+
+#welcomeuser {
+  display: none;
+}
+
+#dashboard,
+#mainPhotos,
+#mainInformation,
+.ui.form.attached.fluid.segment,
+.ui.bottom.attached.warning.message {
+  background-color: pink;
+}
+
+#welcome {
+  background-color: #FF9DAE;
+}
+
+.ui.center.aligned.segment{
+background-color:#FFCADF;
+}
+
+.ui.stacked.segment,
+.ui.fixed.striped.table,
+.ui.header{
+  background-color: #DEA8B3;
+}
+
+.ui.center.aligned.middle.aligned.segment {
+  background-color: #DEA8B3;
+}
+
+.name {
+  padding-top: 39px;
+  padding-right: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+

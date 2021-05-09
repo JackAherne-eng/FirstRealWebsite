@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Moses",
+      "lastName": "Ugwulo",
+      "email": "ugwulomoses@gmail.com",
+      "password": "5gI*#1@8Q2gd",
+      "id": "a60f10b8-7668-419f-8a78-a2bf768b0055"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Aherne",
+      "email": "jack.aherne03@gmail.com",
+      "password": "Secret1",
+      "id": "28d39dd9-e136-4d27-b2eb-d6d81322d41e"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Aherne",
+      "email": "admiraleire@gmail.com",
+      "password": "Secret3",
+      "id": "f0228509-2b55-45b7-a61a-2328c5bbeaa5"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Aherne",
+      "email": "jack.aherne03@gmail.com",
+      "password": "Secret5",
+      "id": "11a9afdd-09d0-4564-bfd6-49d2fc81ee66"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Aherne",
+      "email": "jack.aherne03@gmail.com",
+      "password": "Secret5",
+      "id": "5fa8bd6a-a332-4913-b96e-7145f25cb01e"
+    },
+    {
+      "firstName": "Rosanne",
+      "lastName": "Birney",
+      "email": "rosanne@gmail.com",
+      "password": "Secret1",
+      "id": "82485fe5-1278-47db-b017-24c7a5c34fbf"
+    },
+    {
+      "firstName": "Saoirse",
+      "lastName": "Donovan",
+      "email": "saoirseodonovan13@gmail.com",
+      "password": "Saoirse900",
+      "id": "8b83c4a1-acee-4b2c-a700-ea378a44970d"
+    },
+    {
+      "firstName": "Momo",
+      "lastName": "Momo",
+      "email": "momo@gmail.com",
+      "password": "Momo1234",
+      "id": "c4698ede-26c3-42f0-8507-2355cb50f991"
+    }
+  ]
+}

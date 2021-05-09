@@ -1,0 +1,125 @@
+{{> menu}}
+
+
+<section class="ui two column grid segment">
+  <div class="ui vertical divider"></div>
+  <div class="ui column" id="mainInformation">
+    <h2 class="ui header">Welcome to the AnimeList App {{fullname}}!</h2>
+      <p>
+        This app will allow users to create, add and enjoy their list of their Animes. Users could use this to compare watched Animes or compare what they would like to watch.
+      </p>
+      <div class="centered buttons">
+        <button class="ui blue button" onclick="showHide()">
+          Why? <i class="arrow circle right icon"></i>
+        </button>
+        <button class="ui green button" onclick="alert('Thank you for your feedback! Turns out we like you too ;)')">
+          Like it? <i class="thumbs up icon"></i>
+        </button>
+      </div>
+      <div id="readmore" class="ui message">
+        <p>
+          This app was created from my passion to enjoy animes. I love the details that can be within them and the love each creater has for them. Use your list to organize and track what titles you’ve completed and what you plan to watch or read and so much more.
+        </p>  
+      </div>
+      <div id="welcomeuser" class="ui message" onclick="hideWelcome()"> </div>
+    
+      <div class="ui divider"></div>
+    
+      <h3 class="ui center aligned header">The AnimeList App statistics:</h3>
+      <div class="ui statistics">
+        <div class="statistic">
+          <div class="text value"  style="color: #6f95ed">
+            {{smallestUser}}
+          </div>
+          <div class="label">
+            Has the least Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="value"  style="color: #6f95ed">
+            {{averageAnimes}}
+          </div>
+          <div class="label">
+            Average number of Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="text value"  style="color: #6f95ed">
+            {{largestUser}}
+          </div>
+          <div class="label">
+            Has the most Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="value"  style="color: #6f95ed">
+            {{totalAnimes}}
+          </div>
+          <div class="label">
+            Total Animes
+          </div>
+        </div>
+      </div>
+    
+    <h3 class="ui center aligned header">Your AnimeList statistics:</h3>
+      <div class="ui statistics">
+        <div class="statistic">
+          <div class="text value" style="color: #6f95ed">
+            {{mostinAnimeLists}}
+          </div>
+          <div class="label">
+            collection has the most Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="value"  style="color: #6f95ed">
+            {{userTotalAnimes}}
+          </div>
+          <div class="label">
+            Total number of Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="text value"  style="color: #6f95ed">
+            {{leastinAnimeLists}}
+          </div>
+          <div class="label">
+            collection has the least Animes
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="value"  style="color: #6f95ed">
+            {{userTotalAnimeLists}}
+          </div>
+          <div class="label">
+            Total number of AnimeLists
+          </div>
+        </div>
+        <div class="statistic">
+          <div class="value"  style="color: #6f95ed">
+            {{AvgAnimes}}
+          </div>
+          <div class="label">
+            Average number of Animes in each AnimeList
+          </div>
+        </div>
+      </div>
+  </div>
+  
+  <div class="ui column reverse images" id="mainPhotos">
+    <div class="ui grid">
+      <div class="ui eight wide column">
+        <img class="ui large circular image" src="https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FAnimeShows1.jpg?v=1616113696471">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui large circular image" src="https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FAnimeShows2.jpg?v=1616113461661">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui large circular image" src="https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FAnimeShows3.jfif?v=1616113515286">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui large circular image" src="https://cdn.glitch.com/5c8d4097-7a0a-4407-95ed-b8d7c2f01a1f%2FAnimeShow4.jpg?v=1616113573475">
+      </div>
+    </div>
+  </div>
+</section>

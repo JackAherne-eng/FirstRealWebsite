@@ -1,0 +1,26 @@
+<div class="ui centered cards">
+  {{#each AnimeLists}}
+    <div class="ui centered card">
+      <div class="image">
+        <img src="{{picture}}">
+      </div>
+      <div class="content">
+        <a class="header">{{uppercase title}}</a>
+      </div>
+      <div class="content">
+        <a class="header"><h4>Genre:</h4></a>
+        {{genreDescription}}</div>
+      <div class="metadata; content">
+        <span class="date"><h4>Created:</h4>{{formatDate date}}</span>
+      </div>
+      <div class="extra content">
+        <a href="/AnimeList/{{id}}" class="ui icon button">
+          <i class="icon folder open"></i>
+        </a>
+        <a href="/dashboard/deleteAnimeList/{{id}}" class="ui icon button">
+          <i class="icon trash"></i>
+        </a>
+      </div>
+    </div>
+  {{/each}}
+</div>
