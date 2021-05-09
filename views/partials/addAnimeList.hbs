@@ -1,0 +1,18 @@
+<form class="ui stacked segment form" action="/dashboard/addAnimelist" method="POST" enctype="multipart/form-data">
+  <div class="three fields">
+    <div class="field">
+      <label>Title</label>
+      <input placeholder="Title" type="text" name="title" autofocus required maxlength="19">
+    </div>
+    <div class="field">
+      <label>Genre</label>
+      <input placeholder="Description" type="text" name="genreDescription" required maxlength="34">
+    </div>
+    <div class="field">
+      <label>Image or Gif</label>
+      <input placeholder="" type="file" name="picture" required>
+    </div>
+  </div>
+
+  <button class="ui blue submit button">Add to your Anime List</button>
+</form>

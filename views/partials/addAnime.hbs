@@ -1,0 +1,24 @@
+<form class="ui stacked segment form" action="/AnimeList/{{AnimeList.id}}/addAnime" method="POST">
+  <div class="four fields">
+    <div class="field">
+      <label>Title</label>
+      <input placeholder="Title" type="text" name="title" autofocus required>
+    </div>
+    <div class="field">
+      <label>Artist</label>
+      <input placeholder="Artist" type="text" name="artist" required>
+    </div>
+    <div class="field">
+      <label>Type</label>
+      <select name="type" id="type">
+        <option value ="TV-Show">TV-Show</option>
+        <option value ="Movie">Movie</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>Duration</label>
+      <input placeholder="Duration" type="text" name="duration" required>
+    </div>
+  </div>
+  <button class="ui blue submit button">Add Anime</button>
+</form>

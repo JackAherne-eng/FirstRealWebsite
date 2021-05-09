@@ -1,0 +1,97 @@
+{
+  "AnimeListCollection": [
+    {
+      "id": "c32996be-eff7-4d7d-9b1e-e4722cbffb80",
+      "userid": "5bdff439-13b3-4560-b362-7a4622de232f",
+      "title": "New Anime List",
+      "genreDescription": "In senior high of Shuchiin Academy",
+      "Animes": []
+    },
+    {
+      "id": "8a9c2067-05f8-42bb-a0f4-0203d8eb31e4",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Relaxing Animes",
+      "genreDescription": "Anime's containing love",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1618506524/zwzeo2tvyfdcjrju8e94.gif",
+      "date": "Fri Apr 30 2021 20:14:42 GMT+0000 (Coordinated Universal Time)",
+      "Animes": [
+        {
+          "id": "7d82e88f-5c93-4211-8e23-6ff1a907c53f",
+          "title": "23",
+          "artist": "Close",
+          "type": "TV-Show",
+          "duration": "32"
+        }
+      ]
+    },
+    {
+      "id": "17f6faa2-1962-403b-8530-d2bd2a2a7cb0",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "Relaxing Animes",
+      "genreDescription": "Anime's containing love",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1618506622/ayab8fbqlsiiodj8vozp.gif",
+      "date": "Fri Apr 30 2021 20:14:42 GMT+0000 (Coordinated Universal Time)",
+      "Animes": []
+    },
+    {
+      "id": "57d31230-a11d-468a-90b0-c6bd01460018",
+      "userid": "a60f10b8-7668-419f-8a78-a2bf768b0055",
+      "title": "Relaxing Animes",
+      "genreDescription": "Anime's containing love",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1618506674/zdrzvldd7cnio5gzhm33.gif",
+      "date": "Fri Apr 30 2021 20:14:42 GMT+0000 (Coordinated Universal Time)",
+      "Animes": []
+    },
+    {
+      "id": "af82397d-829f-4e1e-acb7-03693806c2d7",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Favourite",
+      "genreDescription": "router.post('/AnimeList/:id/addAni",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1619814076/tyapccbicwcdccdkihmk.gif",
+      "date": "2021-04-30T20:21:13.008Z",
+      "Animes": [
+        {
+          "id": "f0b9160f-33b2-4b40-b5cd-f4e8eec78e4d",
+          "title": "Relaxing Animes",
+          "artist": "Close",
+          "type": "TV-Show",
+          "duration": "23"
+        }
+      ]
+    },
+    {
+      "id": "dad6bde6-623c-409c-a075-3d9e6e7abd2e",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "New list",
+      "genreDescription": "Sci fi",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1620123371/k7ope4uh6muftabgxjvl.jpg",
+      "date": "2021-05-04T10:16:11.511Z",
+      "Animes": [
+        {
+          "id": "3a07b055-11ea-47ae-84d0-d870182bb377",
+          "title": "Test",
+          "artist": "Test",
+          "type": "Movie",
+          "duration": "10"
+        }
+      ]
+    },
+    {
+      "id": "b3345b1d-aa04-45a1-a4e5-85d8a8162972",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "23",
+      "genreDescription": "T=fadadaddadaddddddddddddddddddddd",
+      "picture": "http://res.cloudinary.com/dbntvnskx/image/upload/v1620142873/mwcmshbteiaqwmlifohl.gif",
+      "date": "2021-05-04T15:41:09.596Z",
+      "Animes": [
+        {
+          "id": "058aeaa1-8259-46c1-8b11-02765b0c673c",
+          "title": "Open",
+          "artist": "Close",
+          "type": "Movie",
+          "duration": "12"
+        }
+      ]
+    }
+  ]
+}
